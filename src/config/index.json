@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 305 9500275",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "009SOCORRO@GMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@SARAYDISEÑOS",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Tiktok",
+        "description": "@SARAYDISEÑOS",
+        "icon": "/assets/images/tiktok.png"
       }
     ]
   },
