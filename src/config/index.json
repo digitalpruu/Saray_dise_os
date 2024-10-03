@@ -69,7 +69,8 @@
       {
         "name": "Tiktok",
         "description": "@SARAYDISEÑOS",
-        "icon": "/assets/images/tiktok.png"
+        "icon": "/assets/images/tiktok.png",
+        "url":""
       }
     ]
   },
